@@ -14,5 +14,5 @@ $ pip2 install mechanize requests bs4
 
 $ cd bot 
 
-$ python2 k-bot.py
+$ python2 bot.py
 
